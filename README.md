@@ -4,7 +4,7 @@ O projeto ***Treine.me*** é uma página estática para treinamento das tecnolo
 
 <div align="center">
 
-<img src="./img/Treine.me.jpg" width="500px" alt="Preview" />
+<img src="./img/Treine.me.png" width="500px" alt="Preview" />
 
 </div>
 
